@@ -1,0 +1,8 @@
+D:\Documents\GitHub\CAI_-01-28082022-EjerciciosRepaso\EjerciciosRepaso\EjerciciosRepaso.InterfazConsola\bin\Debug\EjerciciosRepaso.InterfazConsola.exe.config
+D:\Documents\GitHub\CAI_-01-28082022-EjerciciosRepaso\EjerciciosRepaso\EjerciciosRepaso.InterfazConsola\bin\Debug\EjerciciosRepaso.InterfazConsola.exe
+D:\Documents\GitHub\CAI_-01-28082022-EjerciciosRepaso\EjerciciosRepaso\EjerciciosRepaso.InterfazConsola\bin\Debug\EjerciciosRepaso.InterfazConsola.pdb
+D:\Documents\GitHub\CAI_-01-28082022-EjerciciosRepaso\EjerciciosRepaso\EjerciciosRepaso.InterfazConsola\obj\Debug\EjerciciosRepaso.InterfazConsola.csproj.AssemblyReference.cache
+D:\Documents\GitHub\CAI_-01-28082022-EjerciciosRepaso\EjerciciosRepaso\EjerciciosRepaso.InterfazConsola\obj\Debug\EjerciciosRepaso.InterfazConsola.csproj.SuggestedBindingRedirects.cache
+D:\Documents\GitHub\CAI_-01-28082022-EjerciciosRepaso\EjerciciosRepaso\EjerciciosRepaso.InterfazConsola\obj\Debug\EjerciciosRepaso.InterfazConsola.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\CAI_-01-28082022-EjerciciosRepaso\EjerciciosRepaso\EjerciciosRepaso.InterfazConsola\obj\Debug\EjerciciosRepaso.InterfazConsola.exe
+D:\Documents\GitHub\CAI_-01-28082022-EjerciciosRepaso\EjerciciosRepaso\EjerciciosRepaso.InterfazConsola\obj\Debug\EjerciciosRepaso.InterfazConsola.pdb
