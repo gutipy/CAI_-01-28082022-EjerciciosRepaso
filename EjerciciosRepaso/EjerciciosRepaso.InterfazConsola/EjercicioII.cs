@@ -66,10 +66,14 @@ namespace EjerciciosRepaso.InterfazConsola
                     contador++;
                 }
             }
+
+            //Si tiene más de dos números que al dividirlos da resto cero entonces no es primo y se devuelve 'false'
             if (contador != 2)
             {
                 return false;
             }
+
+            //Si no tiene más de dos números que al dividirlos da resto cero entonces es primo y se devuelve 'true'
             else
             {
                 return true;
