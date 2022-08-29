@@ -10,9 +10,9 @@ namespace EjerciciosRepaso.InterfazConsola
     {
         static void Main(string[] args)
         {
-            EjercicioV E1 = new EjercicioV();
+            EjercicioVI E1 = new EjercicioVI();
 
-            E1.RepasoEj5();
+            E1.RepasoEj6();
 
             Console.ReadKey();
         }
