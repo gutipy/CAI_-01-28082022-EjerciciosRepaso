@@ -6,15 +6,11 @@ using System.Threading.Tasks;
 
 namespace EjerciciosRepaso.InterfazConsola
 {
-    internal class Program
+    public class EjercicioVIII
     {
-        static void Main(string[] args)
+        public void RepasoEj8()
         {
-            EjercicioVIII E1 = new EjercicioVIII();
 
-            E1.RepasoEj8();
-
-            Console.ReadKey();
         }
     }
 }
