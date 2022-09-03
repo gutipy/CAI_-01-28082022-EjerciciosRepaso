@@ -47,6 +47,7 @@
     <Compile Include="EjercicioII.cs" />
     <Compile Include="EjercicioIII.cs" />
     <Compile Include="EjercicioIV.cs" />
+    <Compile Include="EjercicioIX.cs" />
     <Compile Include="EjercicioV.cs" />
     <Compile Include="EjercicioVI.cs" />
     <Compile Include="EjercicioVII.cs" />
